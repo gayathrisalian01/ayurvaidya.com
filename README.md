@@ -1,4 +1,4 @@
-# ayurvaidya.com
+##Link : [![Netlify Status](https://api.netlify.com/api/v1/badges/53c3a460-7dc7-4a42-9829-d03b0f8edb3f/deploy-status)](https://app.netlify.com/sites/ayurvaidya/deploys)
 AyurVaidya: Empowering Ayurvedic Healthcare Online
 AyurVaidya is an online platform designed to make Ayurvedic healthcare accessible and convenient. It bridges the gap between patients seeking alternative healthcare and qualified Ayurvedic practitioners. The platform's key features include:
 
